@@ -1,4 +1,4 @@
-package org.example.taskmanager.service;
+package com.example.taskmanager.service;
 
 import org.example.taskmanager.dto.TaskRequest;
 import org.example.taskmanager.entity.Task;
